@@ -1,0 +1,12 @@
+div.faq-container {
+  max-width: 65.2rem;
+  width: 80%;
+  height: auto;
+  background-color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 0.8rem;
+  padding: 4rem 2.43rem;
+}

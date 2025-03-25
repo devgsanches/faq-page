@@ -1,0 +1,30 @@
+div.faq-container .faq-questions-container .question {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+div.faq-container .faq-questions-container .question p {
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+div.faq-container .faq-questions-container .question-content span {
+  display: block;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: #464646;
+  margin-top: 1.95rem;
+}
+
+div.faq-container .faq-questions-container .question-content span.hidden {
+  display: none;
+}
+
+div.faq-container .faq-questions-container .question button {
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}
