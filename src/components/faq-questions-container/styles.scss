@@ -1,6 +1,8 @@
-div.faq-container .faq-questions-container {
-  display: flex;
-  flex-direction: column;
-  margin-top: 2.85rem;
-  gap: 2.85rem;
+div.faq-container {
+  .faq-questions-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2.85rem;
+    gap: 2.85rem;
+  }
 }

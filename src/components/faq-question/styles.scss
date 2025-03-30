@@ -1,3 +1,5 @@
+@use '../../styles/variables.scss' as *;
+
 div.faq-container .faq-questions-container .question {
   display: flex;
   justify-content: space-between;
@@ -14,7 +16,7 @@ div.faq-container .faq-questions-container .question {
     font-family: Inter;
     font-weight: 400;
     font-size: 1.6rem;
-    color: #464646;
+    color: $gray;
     margin-top: 1.95rem;
   }
 
