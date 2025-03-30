@@ -1,4 +1,4 @@
-import './App.css'
+import './App.scss'
 import { BgTop } from './components/bg-top'
 import { FaqContainer } from './components/faq-container'
 

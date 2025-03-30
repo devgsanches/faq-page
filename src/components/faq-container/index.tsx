@@ -1,5 +1,5 @@
 import { FaqQuestionsContainer } from '../faq-questions-container'
-import './styles.css'
+import './styles.scss'
 
 import { FaqTitleContainer } from '../faq-title-container'
 

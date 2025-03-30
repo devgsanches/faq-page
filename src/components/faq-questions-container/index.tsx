@@ -1,4 +1,4 @@
-import './styles.css'
+import './styles.scss'
 import { FaqQuestion } from '../faq-question'
 
 export function FaqQuestionsContainer() {
